@@ -1,0 +1,3 @@
+# SchoolManagement
+practice project
+Incompelete 
